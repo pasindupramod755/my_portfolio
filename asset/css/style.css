@@ -51,4 +51,18 @@ main button:hover{
     transition: 0.5s;
 }
 
+.mainimg:hover{
+    scale: 1.05;
+    transition: 0.5s;
+}
 
+.projectHover:hover{
+    scale: 1.05;
+    transition: 0.5s;
+    background: linear-gradient(315deg, #0008ff 0%, #c92eec 80%);
+    border: 3px solid;
+}
+
+.project-title{
+    animation: fadeSlide 2.5s ease;
+}

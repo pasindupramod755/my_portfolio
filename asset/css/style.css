@@ -1,0 +1,54 @@
+@keyframes fadeSlide {
+    0% {
+        opacity: 1;
+        transform: translateY(80px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideLeft {
+    from {
+        transform: translateX(100%);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideRight {
+    from {
+        transform: translateX(-20%);
+    }
+
+    to {
+        transform: translateX(0%);
+    }
+}
+
+body {
+    background-color: #6e72fc;
+    background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
+}
+
+main button{
+    margin-right: 15px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #0008ff;
+    color: aliceblue;
+}
+
+
+main button:hover{
+    scale: 1.05;
+    background: linear-gradient(315deg, #0008ff 0%, #c92eec 80%);
+    transition: 0.5s;
+}
+
+

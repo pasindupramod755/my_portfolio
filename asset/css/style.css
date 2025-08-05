@@ -66,3 +66,9 @@ main button:hover{
 .project-title{
     animation: fadeSlide 2.5s ease;
 }
+
+
+.iconAnimation img:hover{
+    scale: 1.2;
+    transition: 0.5s;
+}

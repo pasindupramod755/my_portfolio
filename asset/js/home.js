@@ -7,6 +7,6 @@ function typeWriter() {
     document.getElementById("demo").innerHTML += txt.charAt(i);
     i++;
     setTimeout(typeWriter, 100);
-  }
+  } 
 }
 typeWriter();

@@ -28,9 +28,9 @@ It’s designed with a clean UI and smooth animations to create a professional o
 
 ## 📬 Contact Me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 📧 Email: [bpasindu135@gmail.com](bpasindu135@gmail.com)  
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐙 GitHub: [Your GitHub](https://github.com/yourusername)  
+- 🐙 GitHub: [https://github.com/pasindupramod755](https://github.com/pasindupramod755)  
 
 ---
 

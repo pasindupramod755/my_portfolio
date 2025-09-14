@@ -24,10 +24,6 @@ It’s designed with a clean UI and smooth animations to create a professional o
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript (with animations & responsiveness)  
-- **Frameworks/Libraries:** React / Next.js / Angular *(depending on your portfolio setup)*  
-- **Backend (if any):** Node.js / PHP / Spring Boot  
-- **Database (if any):** MySQL / MongoDB / Supabase  
-
 ---
 
 ## 📸 Screenshots

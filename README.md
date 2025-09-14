@@ -26,14 +26,6 @@ It’s designed with a clean UI and smooth animations to create a professional o
 - **Frontend:** HTML, CSS, JavaScript (with animations & responsiveness)  
 ---
 
-## 📸 Screenshots
-
-| Home Page | Projects |
-|-----------|----------|
-| ![Home Screenshot](link-to-homepage-screenshot) | ![Projects Screenshot](link-to-projects-screenshot) |
-
----
-
 ## 📬 Contact Me
 
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
